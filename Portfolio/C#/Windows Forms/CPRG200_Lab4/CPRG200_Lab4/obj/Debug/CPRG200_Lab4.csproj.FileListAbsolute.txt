@@ -1,0 +1,10 @@
+C:\Users\862236\source\repos\CPRG200_Lab4\CPRG200_Lab4\bin\Debug\CPRG200_Lab4.exe.config
+C:\Users\862236\source\repos\CPRG200_Lab4\CPRG200_Lab4\bin\Debug\CPRG200_Lab4.exe
+C:\Users\862236\source\repos\CPRG200_Lab4\CPRG200_Lab4\bin\Debug\CPRG200_Lab4.pdb
+C:\Users\862236\source\repos\CPRG200_Lab4\CPRG200_Lab4\obj\Debug\CPRG200_Lab4.csprojAssemblyReference.cache
+C:\Users\862236\source\repos\CPRG200_Lab4\CPRG200_Lab4\obj\Debug\CPRG200_Lab4.Properties.Resources.resources
+C:\Users\862236\source\repos\CPRG200_Lab4\CPRG200_Lab4\obj\Debug\CPRG200_Lab4.csproj.GenerateResource.cache
+C:\Users\862236\source\repos\CPRG200_Lab4\CPRG200_Lab4\obj\Debug\CPRG200_Lab4.csproj.CoreCompileInputs.cache
+C:\Users\862236\source\repos\CPRG200_Lab4\CPRG200_Lab4\obj\Debug\CPRG200_Lab4.exe
+C:\Users\862236\source\repos\CPRG200_Lab4\CPRG200_Lab4\obj\Debug\CPRG200_Lab4.pdb
+C:\Users\862236\source\repos\CPRG200_Lab4\CPRG200_Lab4\obj\Debug\CPRG200_Lab4.Form1.resources

@@ -1,0 +1,47 @@
+﻿@model IEnumerable<CPRG214.MVCProject.AssetTracking.Models.AssetViewModel>
+
+@{
+    ViewData["Title"] = "Default";
+}
+
+<h1>Assets</h1>
+
+<p>
+    <a asp-controller="Asset" asp-action="Create">Add New Asset</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Description)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.AssetTypeName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TagNumber)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.SerialNumber)
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Description)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.AssetTypeName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TagNumber)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SerialNumber)
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

@@ -1,0 +1,15 @@
+C:\Users\862236\source\repos\CPRG214.MVCProject\CPRG214.MVCProject.Data\bin\Debug\netcoreapp3.1\CPRG214.MVCProject.Domain.dll
+C:\Users\862236\source\repos\CPRG214.MVCProject\CPRG214.MVCProject.Data\obj\Debug\netcoreapp3.1\CPRG214.MVCProject.Data.csprojAssemblyReference.cache
+C:\Users\862236\source\repos\CPRG214.MVCProject\CPRG214.MVCProject.Data\obj\Debug\netcoreapp3.1\CPRG214.MVCProject.Data.AssemblyInfoInputs.cache
+C:\Users\862236\source\repos\CPRG214.MVCProject\CPRG214.MVCProject.Data\obj\Debug\netcoreapp3.1\CPRG214.MVCProject.Data.AssemblyInfo.cs
+C:\Users\862236\source\repos\CPRG214.MVCProject\CPRG214.MVCProject.Data\obj\Debug\netcoreapp3.1\CPRG214.MVCProject.Data.csproj.CoreCompileInputs.cache
+C:\Users\862236\source\repos\CPRG214.MVCProject\CPRG214.MVCProject.Data\bin\Debug\netcoreapp3.1\CPRG214.MVCProject.Data.deps.json
+C:\Users\862236\source\repos\CPRG214.MVCProject\CPRG214.MVCProject.Data\bin\Debug\netcoreapp3.1\CPRG214.MVCProject.Data.runtimeconfig.json
+C:\Users\862236\source\repos\CPRG214.MVCProject\CPRG214.MVCProject.Data\bin\Debug\netcoreapp3.1\CPRG214.MVCProject.Data.runtimeconfig.dev.json
+C:\Users\862236\source\repos\CPRG214.MVCProject\CPRG214.MVCProject.Data\bin\Debug\netcoreapp3.1\CPRG214.MVCProject.Data.dll
+C:\Users\862236\source\repos\CPRG214.MVCProject\CPRG214.MVCProject.Data\bin\Debug\netcoreapp3.1\CPRG214.MVCProject.Data.pdb
+C:\Users\862236\source\repos\CPRG214.MVCProject\CPRG214.MVCProject.Data\bin\Debug\netcoreapp3.1\CPRG214.MVCProject.Domain.pdb
+C:\Users\862236\source\repos\CPRG214.MVCProject\CPRG214.MVCProject.Data\obj\Debug\netcoreapp3.1\CPRG214.MVCProject.Data.csproj.CopyComplete
+C:\Users\862236\source\repos\CPRG214.MVCProject\CPRG214.MVCProject.Data\obj\Debug\netcoreapp3.1\CPRG214.MVCProject.Data.dll
+C:\Users\862236\source\repos\CPRG214.MVCProject\CPRG214.MVCProject.Data\obj\Debug\netcoreapp3.1\CPRG214.MVCProject.Data.pdb
+C:\Users\862236\source\repos\CPRG214.MVCProject\CPRG214.MVCProject.Data\obj\Debug\netcoreapp3.1\CPRG214.MVCProject.Data.genruntimeconfig.cache

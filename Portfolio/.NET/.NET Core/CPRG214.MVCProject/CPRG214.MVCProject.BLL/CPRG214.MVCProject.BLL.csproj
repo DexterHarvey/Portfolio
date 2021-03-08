@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="5.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CPRG214.MVCProject.Data\CPRG214.MVCProject.Data.csproj" />
+    <ProjectReference Include="..\CPRG214.MVCProject.Domain\CPRG214.MVCProject.Domain.csproj" />
+  </ItemGroup>
+
+</Project>
